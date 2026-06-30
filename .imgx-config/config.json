@@ -1,0 +1,21 @@
+{
+  "owner": "Fly0401",
+  "repo": "img.shenzjd.com",
+  "branch": "main",
+  "directory": "",
+  "compressionEnabled": true,
+  "compressionQuality": 80,
+  "watermarkEnabled": false,
+  "watermarkText": "",
+  "watermarkColor": "#ffffff",
+  "watermarkSize": 24,
+  "watermarkPosition": "bottom-right",
+  "theme": "system",
+  "cdn": "jsdmirror",
+  "useRaw": true,
+  "copyFormat": "markdown",
+  "autoCopyAfterUpload": true,
+  "useOriginalFileName": false,
+  "configPath": ".imgx-config/config.json",
+  "autoSync": true
+}
